@@ -17,7 +17,6 @@ I enjoy designing systems that transform complex healthcare data into actionable
 * 🤖 Building LLM, NLP, and AI-powered applications
 * 📊 Data Engineering and ETL Pipeline Development
 * 🔍 Elasticsearch and Search Platform Expert
-* 🌱 Currently learning Rust and Kernel Programming
 
 ---
 
